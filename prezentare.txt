@@ -1,0 +1,1 @@
+A modern, slick and responsive React Dashboard with dark/light themes, with a sidebar, built with Material Ui components, featuring tabels, multiple customized charts, interactive calendar with different views and a nice form with validation built with formik and yup.
